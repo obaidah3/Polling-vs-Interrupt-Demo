@@ -7,9 +7,8 @@ This project demonstrates the difference between **Polling** and **Interrupts** 
 ## 🎥 **Demo Video**
 
 Watch the experiment in action here:  
-[Demo Video](https://img.youtube.com/vi/0/0.jpg)](https://github.com/user-attachments/assets/ca6f329c-1239-41fb-87ec-cb944817b139)
 
-👉 Or download it directly: [Download demo.mp4](https://github.com/user-attachments/assets/ca6f329c-1239-41fb-87ec-cb944817b139)
+👉 [Watch the demo video](https://github.com/user-attachments/assets/ca6f329c-1239-41fb-87ec-cb944817b139)
 
 
 ---
