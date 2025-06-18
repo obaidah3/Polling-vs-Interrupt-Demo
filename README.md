@@ -2,6 +2,8 @@
 
 This project demonstrates the difference between **Polling** and **Interrupts** in embedded systems using an Arduino Uno (or compatible board), push buttons, an LED, and an LCD display.
 
+
+https://github.com/user-attachments/assets/ca6f329c-1239-41fb-87ec-cb944817b139
 ---
 
 ## 📌 **Project Description**
@@ -32,6 +34,9 @@ This project demonstrates the difference between **Polling** and **Interrupts** 
 ---
 
 ## 🔌 **Wiring**
+
+![Image](https://github.com/user-attachments/assets/8ee3465c-ab31-4f32-a752-4086dcbc78c5)
+
 
 | Component      | Arduino Pin |
 |----------------|--------------|
