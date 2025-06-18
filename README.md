@@ -2,8 +2,16 @@
 
 This project demonstrates the difference between **Polling** and **Interrupts** in embedded systems using an Arduino Uno (or compatible board), push buttons, an LED, and an LCD display.
 
+---
 
-https://github.com/user-attachments/assets/ca6f329c-1239-41fb-87ec-cb944817b139
+## 🎥 **Demo Video**
+
+Watch the experiment in action here:  
+[![Demo Video](https://img.youtube.com/vi/0/0.jpg)](https://github.com/user-attachments/assets/ca6f329c-1239-41fb-87ec-cb944817b139)
+
+👉 Or download it directly: [Download demo.mp4](https://github.com/user-attachments/assets/ca6f329c-1239-41fb-87ec-cb944817b139)
+
+
 ---
 
 ## 📌 **Project Description**
